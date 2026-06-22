@@ -3,8 +3,8 @@
 > Universitas Pelita Bangsa, Bekasi | Dosen: Agung Nugroho | T.A. 2024/2025
 
 ---
-## Nama : Novellysna Nurziska
-## NIM : 312410131
+## Nama : Khusnul Khotimah
+## NIM : 312410126
 ## I241A
 ## 📋 Daftar Isi
 
