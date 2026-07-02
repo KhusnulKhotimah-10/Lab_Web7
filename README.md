@@ -36,7 +36,11 @@ Proyek ini menghubungkan backend CodeIgniter 4 dengan frontend Vue.js untuk memb
 7. [Praktikum 7: Fitur Validasi Form & Unggah File Gambar Artikel](#praktikum-7-upload-file-gambar)
 8. [Praktikum 8: Integrasi AJAX (Asynchronous JavaScript and XML)](#praktikum-8-ajax)
 9. [Praktikum 9: Implementasi AJAX Pagination & Live Search](#praktikum-9-ajax-pagination)
-
+10. [Praktikum 10: Pengenalan Web Service & Pembuatan RESTful API dengan CodeIgniter 4](#praktikum-10-web-service-restful-api)
+11. [Praktikum 11: Konsumsi RESTful API Menggunakan Fetch API / Guzzle Client](#praktikum-11-konsumsi-restful-api)
+12. [Praktikum 12: Generate Laporan PDF Menggunakan Library Dompdf di CodeIgniter 4](#praktikum-12-generate-pdf-dompdf)
+13. [Praktikum 13: Impor & Ekspor Data Excel Menggunakan Library PhpSpreadsheet](#praktikum-13-import-export-excel)
+14. [Praktikum 14: Upload Project CodeIgniter 4 ke Hosting (Deploy ke Web Hosting)](#praktikum-14-deploy-ke-hosting)
 ---
 
 # Laporan Praktikum Pemrograman Web 2 (CodeIgniter 4)
