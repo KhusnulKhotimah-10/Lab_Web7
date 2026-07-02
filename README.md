@@ -27,20 +27,15 @@ Proyek ini menghubungkan backend CodeIgniter 4 dengan frontend Vue.js untuk memb
 
 ## 📑 Daftar Isi Praktikum
 
-1. [Praktikum 1: Pengenalan PHP Framework & Instalasi CodeIgniter 4](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-1-php-framework-codeigniter)
-2. [Praktikum 2: Framework Lanjutan - Pembuatan CRUD Sederhana](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-2-framework-lanjutan-crud)
-3. [Praktikum 3: Struktur Tampilan Menggunakan View Layout & View Cell](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-3-view-layout-dan-view-cell)
-4. [Praktikum 4: Implementasi Modul Login, Autentikasi, & Filter](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-4-framework-lanjutan-modul-login)
-5. [Praktikum 5: Fitur Penomoran Halaman (Pagination) & Pencarian Data](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-5-pagination-dan-pencarian)
-6. [Praktikum 6: Relasi Antar Tabel (One-to-Many) & Query Builder](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-6-relasi-tabel-dan-query-builder)
-7. [Praktikum 7: Fitur Validasi Form & Unggah File Gambar Artikel](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-7-upload-file-gambar)
-8. [Praktikum 8: Integrasi AJAX (Asynchronous JavaScript and XML)](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-8-ajax)
-9. [Praktikum 9: Implementasi AJAX Pagination & Live Search](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-9-implementasi-ajax-pagination-dan-search)
-10. [Praktikum 10: Pembangunan RESTful API Backend dengan format JSON](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-10-api-rest-api-codeigniter)
-11. [Praktikum 11: Implementasi RESTful API Client & Pengujian Endpoint](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-11--12-vuejs-spa)
-12. [Praktikum 12: Pengenalan Arsitektur Clean Code & Pengaturan Environment](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-11--12-vuejs-spa)
-13. [Praktikum 13: Implementasi Web Security & Penanganan SQL Injection](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-13-vuejs-autentikasi-dan-navigation-guards)
-14. [Praktikum 14: Finalisasi Proyek Portal Berita & Deployment Hosting](https://github.com/roufmzan/Laporan-Terakhir-Praktikum-Pemograman-Web-2/blob/main/README.md#praktikum-14-token-based-authentication--axios-interceptors)
+1. [Praktikum 1: Pengenalan PHP Framework & Instalasi CodeIgniter 4](#praktikum-1-php-framework-codeigniter)
+2. [Praktikum 2: Framework Lanjutan - Pembuatan CRUD Sederhana](#praktikum-2-framework-lanjutand-crud)
+3. [Praktikum 3: Struktur Tampilan Menggunakan View Layout & View Cell](#praktikum-3-view-layout-dan-view-cell)
+4. [Praktikum 4: Implementasi Modul Login, Autentikasi, & Filter](#praktikum-4-framework-lanjutand-modul-login)
+5. [Praktikum 5: Fitur Penomoran Halaman (Pagination) & Pencarian Data](#praktikum-5-pagination-dan-pencarian)
+6. [Praktikum 6: Relasi Antar Tabel (One-to-Many) & Query Builder](#praktikum-6-relasi-tabel-dan-query-builder)
+7. [Praktikum 7: Fitur Validasi Form & Unggah File Gambar Artikel](#praktikum-7-upload-file-gambar)
+8. [Praktikum 8: Integrasi AJAX (Asynchronous JavaScript and XML)](#praktikum-8-ajax)
+9. [Praktikum 9: Implementasi AJAX Pagination & Live Search](#praktikum-9-ajax-pagination)
 
 ---
 
