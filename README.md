@@ -44,12 +44,11 @@ Proyek ini menghubungkan backend CodeIgniter 4 dengan frontend Vue.js untuk memb
 ---
 
 # Laporan Praktikum Pemrograman Web 2 (CodeIgniter 4)
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/b3916d27-d200-474e-8d59-5e1b29bb5b04" />
+<img width="959" height="512" alt="image" src="https://github.com/user-attachments/assets/bf359d5a-aa90-4f4c-9d0b-52c19fe52d42" />
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/89187b91-dc03-40d0-a20b-8ac9425623c8" />
+<img width="959" height="514" alt="image" src="https://github.com/user-attachments/assets/f02fa90e-3a02-4562-9a17-aaf276a300e0" />
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ad30e789-3dad-4e75-ae52-60631013b31a" />
-
+<img width="959" height="508" alt="image" src="https://github.com/user-attachments/assets/5e16040e-3a8c-4495-9137-a96db2928675" />
 
 
 ## Praktikum 1: PHP Framework (CodeIgniter)
